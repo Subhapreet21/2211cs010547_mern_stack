@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/2211cs010547_mern_stack/static/css/main.8b0d06b8.css",
-    "main.js": "/2211cs010547_mern_stack/static/js/main.7e3028cd.js",
+    "main.css": "/2211cs010547_mern_stack/static/css/main.71687625.css",
+    "main.js": "/2211cs010547_mern_stack/static/js/main.4acf6a71.js",
     "static/js/592.a8ef3a6c.chunk.js": "/2211cs010547_mern_stack/static/js/592.a8ef3a6c.chunk.js",
-    "static/media/productinfo.jpg": "/2211cs010547_mern_stack/static/media/productinfo.f184d314199b4152030a.jpg",
-    "static/media/statistics.jpg": "/2211cs010547_mern_stack/static/media/statistics.df05f4cf00ac9bbb1e74.jpg",
-    "static/media/charts.jpg": "/2211cs010547_mern_stack/static/media/charts.a70cfc9118e214761eff.jpg",
     "index.html": "/2211cs010547_mern_stack/index.html",
-    "main.8b0d06b8.css.map": "/2211cs010547_mern_stack/static/css/main.8b0d06b8.css.map",
-    "main.7e3028cd.js.map": "/2211cs010547_mern_stack/static/js/main.7e3028cd.js.map",
+    "main.71687625.css.map": "/2211cs010547_mern_stack/static/css/main.71687625.css.map",
+    "main.4acf6a71.js.map": "/2211cs010547_mern_stack/static/js/main.4acf6a71.js.map",
     "592.a8ef3a6c.chunk.js.map": "/2211cs010547_mern_stack/static/js/592.a8ef3a6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b0d06b8.css",
-    "static/js/main.7e3028cd.js"
+    "static/css/main.71687625.css",
+    "static/js/main.4acf6a71.js"
   ]
 }
